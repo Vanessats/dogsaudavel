@@ -1,0 +1,22 @@
+.App {
+  height: 100vh;
+  width: 100vw;
+  background-color: #112a6e;
+}
+
+.container {
+  padding: 1vh 1vw;
+}
+
+.card-native {
+  border-radius: 5px;
+  background-color: #ffffff;
+  padding: 5%;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19);
+}
+
+.container-right {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+}
